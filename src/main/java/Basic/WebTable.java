@@ -17,6 +17,9 @@ public class WebTable {
 		// store whole table in table variable
 		
 	WebElement table=	driver.findElement(By.xpath("//table[@class='ws-table-all notranslate']"));
+	System.out.println("Hello");
+	
+	System.out.println("Hello");
 	
 		
 		
